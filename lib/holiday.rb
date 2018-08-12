@@ -66,7 +66,7 @@ def all_supplies_in_holidays(holiday_hash)
   # etc.
   holiday_hash.each do |season, holiday_data|
     holiday_data.collect do |holiday, supplies_array|
-      
+
 
       #new holiday = holiday_hash.delete(:holiday)
     end
